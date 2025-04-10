@@ -1,0 +1,9 @@
+Q.1 Write a python program to implement try-excpet in simple program
+Q.2 Write a python program to use multiple 'except'.
+Q.3 Write a python program to use 'else' clause with an except block.
+Q.4 Write a python program to use an assertion statement.
+	a)with an error message.
+	b)without an error message.
+Q.5 Write a python program to show user defined exceptions
+Q.6 write a python program to handle multiple errors with on except statement
+Q.7 Write a python program to create a game a character using user defined exceptions
